@@ -44,7 +44,7 @@ input[type=text] {
 }
 
 .circle-timer.ongoing {
-  animation: reduce-size 1s linear;
+  animation: reduce-size 0.8s linear;
 }
 
 .circle-timer.template {

@@ -143,7 +143,7 @@
       circleTimerTimeout = setTimeout(() => {
         game.classList.remove("ongoing");
         endGame();
-      }, 1000);
+      }, 800);
     }
   }
 
